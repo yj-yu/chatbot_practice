@@ -37,7 +37,6 @@ mathparse==0.1.2
 msgpack==0.6.1
 murmurhash==1.0.2
 nltk==3.4.5
-numpy==1.16.0
 oauthlib==3.1.0
 pandas==0.25.3
 pbr==5.4.4
@@ -65,7 +64,7 @@ SQLAlchemy==1.2.19
 srsly==0.1.0
 stevedore==1.31.0
 tensorboard==1.10.0
-tensorflow-gpu==1.10.0
+tensorflow==1.10.0
 termcolor==1.1.0
 thinc==7.0.8
 tqdm==4.36.1
@@ -73,3 +72,4 @@ tweepy==3.8.0
 urllib3==1.25.5
 wasabi==0.2.2
 Werkzeug==0.16.0
+numpy==1.16.0
