@@ -1,4 +1,5 @@
-pyyaml
+jupyterlab
+chatterbot
 absl-py==0.8.1
 astor==0.8.0
 beautifulsoup4==4.6.0
@@ -9,8 +10,6 @@ botocore==1.13.39
 certifi==2019.9.11
 cffi==1.13.2
 chardet==3.0.4
-ChatterBot==1.0.5
-chatterbot-corpus==1.2.0
 Click==7.0
 colorama==0.4.1
 cryptography==2.8
@@ -41,7 +40,6 @@ numpy==1.14.0
 oauthlib==3.1.0
 pandas==0.25.3
 pbr==5.4.4
-Pillow==6.2.1
 Pint==0.9
 plac==0.9.6
 preshed==2.0.1
@@ -69,12 +67,8 @@ tensorboard==1.10.0
 tensorflow-gpu==1.10.0
 termcolor==1.1.0
 thinc==7.0.8
-torch==1.2.0
 tqdm==4.36.1
 tweepy==3.8.0
 urllib3==1.25.5
-virtualenv==16.7.9
-virtualenv-clone==0.5.3
-virtualenvwrapper==4.8.4
 wasabi==0.2.2
 Werkzeug==0.16.0

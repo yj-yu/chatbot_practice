@@ -2,7 +2,6 @@ import os
 import sys
 import requests
 import json
-from PIL import ImageFile
 from flask import Flask, request, make_response, jsonify
 
 from chatterbot import ChatBot
