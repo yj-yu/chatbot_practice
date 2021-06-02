@@ -69,7 +69,7 @@ termcolor==1.1.0
 thinc==7.0.8
 tqdm==4.36.1
 tweepy==3.8.0
-urllib3==1.25.5
+urllib3==1.26.5
 wasabi==0.2.2
 Werkzeug==0.16.0
 numpy==1.16.0
