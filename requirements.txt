@@ -30,7 +30,7 @@ joblib==0.14.0
 JPype1==0.7.0
 konlpy==0.5.2
 korean==0.1.8
-lxml==4.4.2
+lxml==4.6.5
 Markdown==3.1.1
 MarkupSafe==1.1.1
 mathparse==0.1.2
