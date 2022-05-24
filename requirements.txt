@@ -64,7 +64,7 @@ SQLAlchemy==1.2.19
 srsly==0.1.0
 stevedore==1.31.0
 tensorboard==1.10.0
-tensorflow==1.10.0
+tensorflow==2.6.4
 termcolor==1.1.0
 thinc==7.0.8
 tqdm==4.36.1
