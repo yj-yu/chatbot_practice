@@ -43,7 +43,7 @@ pbr==5.4.4
 Pint==0.9
 plac==0.9.6
 preshed==2.0.1
-protobuf==3.11.1
+protobuf==3.18.3
 pycparser==2.19
 pymongo==3.9.0
 pynvim==0.3.2
